@@ -7,4 +7,8 @@ Classroom Use Monitor uses motion estimation and noise measurment to predict wha
 
 This was my project for my thesis, at the University of Queensland, 2014.
 
+This project requires OpenCV (2.4.9)
+PortAudio
+Qt
+
 I can be contacted at joel.smith3@uqconnect.edu.au
