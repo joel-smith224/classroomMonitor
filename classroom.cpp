@@ -77,7 +77,7 @@ int Classroom::openVideo(const string &filename) {
         return -1;
     openMonitor();
     video = true;
-    video_time = 16;
+    video_time = 0;
     return 0;
 }
 
